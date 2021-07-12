@@ -1,1 +1,3 @@
-This is not my first python program
+This is for image processing class 010723305
+
+Faculty of engineering, KMUTNB
